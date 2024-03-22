@@ -20,7 +20,7 @@
   <li>Niniejszy Regulamin określa zakres praw i obowiązków Usługobiorcy oraz Usługodawcy.</li>
   <li>Usługobiorca bierze na siebie pełną odpowiedzialność za sposób wykorzystywania informacji udostępnionych w ramach Usługi.</li>
   <li>Usługobiorca ponosi całe ryzyko związane z jakością oraz wydajnością Usługi.</li>
-  <li>Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności bota, co zapewnia swobodne korzystanie z wbudowanych poleceń w tym narzędziu.</li>
+  <li>Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności bota, co zapewnia swobodne korzystanie ze wbudowanych poleceń w tym narzędziu.</li>
 </ul>
 
 <h2>3. Przetwarzanie danych Usługobiorcy</h2>
