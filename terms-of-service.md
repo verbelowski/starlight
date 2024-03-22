@@ -51,20 +51,7 @@
   <li>Wysłanie zgłoszenia nie oznacza, że Usługodawca zrekompensuje Usługobiorcę.</li>
 </ul>
 
-<h2>6. Wymagania do korzystania z Usługi</h2>
-<ul>
-  <li>Do działania Usługi niezbędne jest:</li>
-  <ul>
-    <li>połączenie z internetem.</li>
-    <li>przeglądarka internetowa z obsługą języka HTML5 oraz zgodna ze standardami i postanowieniami <a href="https://www.w3.org/">Konsorcjum W3C</a>.</li>
-    <li>urządzenie z wyświetlaczem, umożliwiające wyświetlanie stron internetowych.</li>
-    <li>włączona obsługa plików Cookie.</li>
-    <li>włączona obsługa skryptów JavaScript.</li>
-  </ul>
-  <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
-</ul>
-
-<h2>7. Zasady korzystania z Usługi</h2>
+<h2>6. Warunki korzystania z Usługi</h2>
 <ul>
   <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy.</li>
     <ul>
@@ -80,6 +67,19 @@
       <li>naruszających bezpieczeństwo i prywatność Usługobiorcy, Usługodawcy lub współpracujących z nimi podmiotów.</li>
       <li>wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
     </ul>
+</ul>
+
+<h2>7. Wymagania korzystania z Usługi</h2>
+<ul>
+  <li>Do działania Usługi niezbędne jest:</li>
+  <ul>
+    <li>połączenie z internetem.</li>
+    <li>przeglądarka internetowa z obsługą języka HTML5 oraz zgodna ze standardami i postanowieniami <a href="https://www.w3.org/">Konsorcjum W3C</a>.</li>
+    <li>urządzenie z wyświetlaczem, umożliwiające wyświetlanie stron internetowych.</li>
+    <li>włączona obsługa plików Cookie.</li>
+    <li>włączona obsługa skryptów JavaScript.</li>
+  </ul>
+  <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
 </ul>
 
 <h2>8. Założenia końcowe</h2>
