@@ -45,7 +45,7 @@
 <h2>5. Reszta danych osobowych</h2>
 <ul>
   <li>Usługodawca gromadzi i przetwarza także informacje techniczne niezbędne do świadczenia usług, np. ustawienia konfiguracyjne nadane przez Usługobiorcę lub dane serwerów Discord, na których dodano bota.</li>
-  <li>Zgodnie z <strong>art. 4 ust. 1</strong> oraz motywem <strong>26 RODO</strong> nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszej polityce, a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
+  <li>Zgodnie z <strong>art. 4 ust. 1</strong> oraz motywem <strong>26 RODO</strong> nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym Regulaminie (wzmianka w punkcie trzecim Regulaminu), a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
 </ul>
 
 <h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
