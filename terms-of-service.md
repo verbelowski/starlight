@@ -4,7 +4,7 @@
   <li>Ostatnia aktualizacja: <strong>22.03.2024r.</strong></li>
 </ul>
 
-<h2>a) Definicje:</h2>
+<h2>1. Definicje:</h2>
 <ul>
   <li><strong>Komunikacja Drogą Elektroniczną</strong> — oznacza komunikator internetowy „Discord", należący do „Discord Inc.".</li>
   <li><strong>Regulamin</strong> — oznacza niniejsze zasady świadczenia usług drogą elektroniczną.</li>
@@ -14,9 +14,20 @@
   <li><strong>Usługodawca</strong> — oznacza właściciela Usługi, tj. zespół „Starlight™ Development".</li>
 </ul>
 
-<h2>b) Postanowienia ogólne:</h2>
+<h2>2. Postanowienia ogólne:</h2>
 <ul>
   <li>Kontakt z Usługodawcą jest możliwy tylko i wyłącznie poprzez Serwer Wsparcia.</li>
   <li>Niniejszy Regulamin określa zakres praw i obowiązków Usługobiorcy oraz Usługodawcy.</li>
+  <li>Usługobiorca bierze na siebie pełną odpowiedzialność za sposób wykorzystywania informacji udostępnionych w ramach Usługi.</li>
   <li>Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności bota, co zapewnia swobodne korzystanie z wbudowanych poleceń w tym narzędziu.</li>
+</ul>
+
+<h2>3. Zasady korzystania z Usługi:</h2>
+<ul>
+  <li>Usługodawca zastrzega sobie prawo zablokowania dostępu do Usługi dla Usługiobiorcy łamiącego Regulamin.</li>
+  <li>Zabrania się podejmowania wobec Usługi działań:</li>
+    <ul>
+      <li>Łamiących polskie lub europejskie prawo.</li>
+      <li>Łamiących</li>
+    </ul>
 </ul>
