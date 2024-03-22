@@ -7,7 +7,7 @@
 <h2>1. Definicje</h2>
 <ul>
   <li><strong>Komunikacja Drogą Elektroniczną</strong> — oznacza komunikator internetowy „Discord", należący do „Discord Inc.".</li>
-  <li><strong>Regulamin</strong> — oznacza niniejsze zasady świadczenia usług drogą elektroniczną.</li>
+  <li><strong>Regulamin</strong> — oznacza niniejsze zasady przetwarzania i wykorzystywania danych przez Usługę drogą elektroniczną.</li>
   <li><strong>RODO</strong> — Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27.04.2016r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.</li>
   <li><strong>Serwer Wsparcia</strong> — oznacza miejsce związane z pomocą dotyczącą Usługi (<a href="https://discord.gg/TgKAPhyhfm">kliknij, aby dołączyć</a>).</li>
   <li><strong>Usługa</strong> — oznacza narzędzie internetowe „Starlight", działające poprzez Komunikację Drogą Elektroniczną.</li>
