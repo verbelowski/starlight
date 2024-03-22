@@ -8,7 +8,7 @@
 <ul>
   <li><strong>Komunikacja Drogą Elektroniczną</strong> — oznacza komunikator internetowy „Discord", należący do „Discord Inc.".</li>
   <li><strong>Regulamin</strong> — oznacza niniejsze zasady świadczenia usług drogą elektroniczną.</li>
-  <li><strong>Serwer Wsparcia</strong> — oznacza miejsce związane z pomocą dotyczącą Usługi (https://discord.gg/TgKAPhyhfm).</li>
+  <li><strong>Serwer Wsparcia</strong> — oznacza miejsce związane z pomocą dotyczącą Usługi (<a href="https://discord.gg/TgKAPhyhfm">kliknij, aby dołączyć</a>).</li>
   <li><strong>Usługa</strong> — oznacza narzędzie internetowe „Starlight", działające poprzez Komunikację Drogą Elektroniczną.</li>
   <li><strong>Usługobiorca</strong> — oznacza osobę fizyczną, korzystającą z Usługi za pośrednictwem Usługodawcy.</li>
   <li><strong>Usługodawca</strong> — oznacza właściciela Usługi, tj. zespół „Starlight™ Development".</li>
@@ -23,9 +23,15 @@
   <li>Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności bota, co zapewnia swobodne korzystanie z wbudowanych poleceń w tym narzędziu.</li>
 </ul>
 
-<h2>3. Przetwarzanie danych osobowych</h2>
+<h2>3. Przetwarzanie danych Usługobiorcy</h2>
 <ul>
-  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="">polityce prywatności</a>.</li>
+  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="https://github.com/verbelowski/starlight/blob/main/privacy-policy.md">polityce prywatności</a>.</li>
+  <ul>
+    <li>Dane niebędące niezbędne do zapewnienia Usługi, przetwarzamy tylko za zgodą Usługobiorcy.</li>
+    <li>Usługobiorca korzysta z Usługi dzięki użyciu pseudonimu, a więc bez publikowania swoich danych osobowych.</li>
+    <li>Usługodawca stosuje środki techniczne i organizacyjne, aby zapewnić bezpieczeństwo przetwarzanych danych.</li>
+    <li>Wszelkie podmioty przetwarzające dane osobowy Usługobiorcy zostały świadomie dobrane.</li>
+  </ul>
 </ul>
 
 <h2>4. Odpowiedzialność Usługodawcy</h2>
@@ -37,21 +43,33 @@
   <li>Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.</li>
 </ul>
 
-<h2>5. Zasady korzystania z Usługi</h2>
+<h2>5. Wymagania do korzystania z Usługi</h2>
 <ul>
-  <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy:</li>
+  <li>Do działania Usługi niezbędne jest:</li>
+  <ul>
+    <li>połączenie z internetem.</li>
+    <li>przeglądarka internetowa z obsługą języka HTML5 oraz zgodna ze standardami i postanowieniami <a href="https://www.w3.org/">Konsorcjum W3C</a>.</li>
+    <li>urządzenie z wyświetlaczem, umożliwiające wyświetlanie stron internetowych.</li>
+    <li>włączona obsługa plików Cookie.</li>
+    <li>włączona obsługa skryptów JavaScript.</li>
+  </ul>
+  <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
+</ul>
+
+<h2>6. Zasady korzystania z Usługi</h2>
+<ul>
+  <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy.</li>
     <ul>
       <li>Usługobiorca może ubiegać się o rekompensatę w postaci roli na Serwerze Wsparcia.</li>
       <li>Usługodawca dołoży wszelkich starań, aby naprawić usterkę w jak najszybszym tempie.</li>
       <li>Zgłoszenie błędu powinno zawierać jak najwięcej informacji, co pozwoli szybko zdiagnozować problem.</li>
     </ul>
-  <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
   <li>Zabrania się prób wykrywania luk w zabezpieczeniach bez zgody Usługodawcy.</li>
   <li>Zabrania się podejmowania wobec Usługi działań:</li>
     <ul>
-      <li>Łamiących polskie lub europejskie prawo.</li>
-      <li>Łamiących <a href="https://discord.com/terms">warunki korzystania z usługi Discord</a> oraz <a href="https://discord.com/guidelines">wytyczne dla społeczności Discord</a>.</li>
-      <li>Naruszających bezpieczeństwo i prywatność Usługobiorcy, Usługodawcy lub współpracujących z nimi podmiotów.</li>
-      <li>Wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
+      <li>łamiących polskie lub europejskie prawo.</li>
+      <li>łamiących <a href="https://discord.com/terms">warunki korzystania z usługi Discord</a> oraz <a href="https://discord.com/guidelines">wytyczne dla społeczności Discord</a>.</li>
+      <li>naruszających bezpieczeństwo i prywatność Usługobiorcy, Usługodawcy lub współpracujących z nimi podmiotów.</li>
+      <li>wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
     </ul>
 </ul>
