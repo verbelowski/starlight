@@ -45,10 +45,10 @@
 
 <h2>5. Rekompensaty za błędy</h2>
 <ul>
-  <li>Decyzja o rekompensacie jest podejmowana przez Usłogodawcę po zbadaniu zgłoszenia.</li>
+  <li>Decyzja o rekompensacie jest podejmowana przez Usługodawcę po zbadaniu zgłoszenia.</li>
   <li>Formę rekompensaty ustala Usługodawca (szczegóły w punkcie siódmym Regulaminu).</li>
   <li>Usługodawca zobowiązuje się do rozpatrzenia rekompensaty w ciągu dwóch tygodni od daty zgłoszenia.</li>
-  <li>Wysłanie zgłoszenia nie oznacza, że Usłogadawca zrekompensuje Usłogobiorcę.</li>
+  <li>Wysłanie zgłoszenia nie oznacza, że Usługodawca zrekompensuje Usługobiorcę.</li>
 </ul>
 
 <h2>6. Wymagania do korzystania z Usługi</h2>
