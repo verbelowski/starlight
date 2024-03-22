@@ -43,7 +43,15 @@
   <li>Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.</li>
 </ul>
 
-<h2>5. Wymagania do korzystania z Usługi</h2>
+<h2>5. Rekompensaty za błędy</h2>
+<ul>
+  <li>Decyzja o rekompensacie jest podejmowana przez Usłogodawcę po zbadaniu zgłoszenia.</li>
+  <li>Formę rekompensaty ustala Usłogodawca (szczegóły w punkcie siódmym Regulaminu).</li>
+  <li>Usłogodawca zobowiązuje się do rozpatrzenia rekompensaty w ciągu dwóch tygodni od daty zgłoszenia.</li>
+  <li>Wysłanie zgłoszenia nie oznacza, że Usłogadawca zrekompensuje Usłogobiorcę.</li>
+</ul>
+
+<h2>6. Wymagania do korzystania z Usługi</h2>
 <ul>
   <li>Do działania Usługi niezbędne jest:</li>
   <ul>
@@ -56,7 +64,7 @@
   <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
 </ul>
 
-<h2>6. Zasady korzystania z Usługi</h2>
+<h2>7. Zasady korzystania z Usługi</h2>
 <ul>
   <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy.</li>
     <ul>
@@ -74,7 +82,7 @@
     </ul>
 </ul>
 
-<h2>7. Założenia końcowe</h2>
+<h2>8. Założenia końcowe</h2>
 <ul>
   <li>Usługodawca zastrzega sobie prawo do modyfikowania treści zawartych w Regulaminie.</li>
   <li>Usługodawca zastrzega sobie prawo do wyłączania i zawieszania działania Usługi, a także do usuwania oraz dodawania funkcji bez wcześniejszego poinformowania o tym Usługobiorców znajdujących się na Serwerze Wsparcia.</li>
