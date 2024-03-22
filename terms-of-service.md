@@ -24,7 +24,7 @@
 
 <h2>3. Odpowiedzialność Usługodawcy</h2>
 <ul>
-  <li>.</li>
+  <li>Usługodawca zastrzega sobie prawo zablokowania dostępu do Usługi dla Usługiobiorcy łamiącego Regulamin.</li>
 </ul>
 
 <h2>4. Zasady korzystania z Usługi</h2>
@@ -35,7 +35,6 @@
       <li>Usługodawca dołoży wszelkich starań, aby naprawić usterkę w jak najszybszym tempie.</li>
       <li>Zgłoszenie błędu powinno zawierać jak najwięcej informacji, co pozwoli szybko zdiagnozować problem.</li>
     </ul>
-  <li>Usługodawca zastrzega sobie prawo zablokowania dostępu do Usługi dla Usługiobiorcy łamiącego Regulamin.</li>
   <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
   <li>Zabrania się prób wykrywania luk w zabezpieczeniach bez zgody Usługodawcy.</li>
   <li>Zabrania się podejmowania wobec Usługi działań:</li>
