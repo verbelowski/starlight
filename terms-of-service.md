@@ -89,4 +89,4 @@
   <li>W sprawach nieuregulowanych Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu Cywilnego, ustawy z dnia 30.05.2014r. o prawach konsumenta oraz ustawy z dnia 18.07.2002r. o świadczeniu usług drogą elektroniczną.</li>
 </ul>
 
-<h6>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/privacy-policy.md">polityki prywatności</a>.</h6>
+<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/privacy-policy.md">polityki prywatności</a>.</h5>
