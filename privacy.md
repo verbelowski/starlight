@@ -40,13 +40,28 @@
     <li><a href="https://discord.com/developers/docs/resources/user#user-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi kont.</a></li>
   </ul>
   <li>Dane te umożliwiają wyszukiwanie i wyświetlanie informacji o członkach serwera Discord, a także szybkie wykonywanie poleceń. Jeżeli przebywasz na serwerze, na którym świadczymy Usługę, a chcesz usunąć swoje dane z pamięci tymczasowej, to wyjdź z tego serwera.</li>
-  <li>Podstawą prawną do ich przetwarzania jest <strong>art. 6 ust. 1 lit. f RODO</strong>, czyli prawnie uzasadniony interes Usługodawcy, polegający na zapewnieniu podstawowych potrzeb funkcjonowania Usługi.</li>
+  <li>Podstawą prawną do ich przetwarzania jest art. 6 ust. 1 lit. f RODO, czyli prawnie uzasadniony interes Usługodawcy, polegający na zapewnieniu podstawowych potrzeb funkcjonowania Usługi.</li>
 </ul>
 
 <h2>5. Reszta danych osobowych</h2>
 <ul>
   <li>Usługodawca gromadzi i przetwarza także informacje techniczne niezbędne do świadczenia usług, np. ustawienia konfiguracyjne nadane przez Usługobiorcę lub dane serwerów Discord, na których dodano bota.</li>
-  <li>Zgodnie z <strong>art. 4 ust. 1</strong> oraz motywem <strong>26 RODO</strong> nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym Regulaminie (wzmianka w punkcie trzecim Regulaminu), a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
+  <li>Zgodnie z art. 4 ust. 1 oraz motywem 26 RODO nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym Regulaminie (wzmianka w punkcie trzecim Regulaminu), a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
+</ul>
+
+<h2>6. Żądania i prawa Usługobiorców</h2>
+<ul>
+  <li>Każdy członek serwera Discord, na którym świadczymy Usługę, ma prawo do:</li>
+  <ul>
+    <li>cofnięcia zgody na przetwarzanie swoich danych osobowych, jeżeli są przetwarzane na jej podstawie (art. 7 RODO).</li>
+    <li>przeniesienia swoich danych osobowych (art. 20 RODO).</li>
+    <li>sprostowania swoich danych osobowych (art. 16 RODO).</li>
+    <li>wniesienia skargi do organu nadzorczego UODO (<a href="https://uodo.gov.pl/pl/83/155">kliknij, aby dowiedzieć się więcej</a>).</li>
+    <li>wyrażenia sprzeciwu wobec przetwarzania swoich danych osobowych w przypadku przetwarzania ich w celu realizacji uzasadnionego interesu Usługodawcy (art. 21 RODO).</li>
+    <li>uzyskania dostępu do swoich danych osobowych (art. 15 RODO).</li>
+    <li>zażądania ograniczenia przetwarzania swoich danych osobowych (art. 18 RODO).</li>
+    <li>zażądania usunięcia swoich danych osobowych (art. 17 RODO).</li>
+  </ul>
 </ul>
 
 <h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
