@@ -22,7 +22,15 @@
   <li>Wszelkie kwestie związane z przetwarzaniem danych osobowych przez Usługę należy kierować na Serwer Wsparcia.</li>
 </ul>
 
-<h2>3. Przetwarzanie danych serwerów</h2>
+<h2>3. Odbiorcy danych</h2>
+<ul>
+  <li>Dane Usługobiorców (oprócz tego, że są wykorzystywane przez podmioty zewnętrzne) są przetwarzane przez Usługodawcę w ramach wykorzystywanej infrastruktury, a co za tym idzie, zostają one powierzone następującym odbiorcom:</li>
+  <ul>
+    <li>DisCloud — dostawca usług hostingowych (<a href="https://discloudbot.com/">kliknij, aby przenieść się na stronę</a>).</li>
+  </ul>
+</ul>
+
+<h2>4. Przetwarzanie danych serwerów</h2>
 <ul>
   <li>Niniejsze dane zostają usuwane wraz z zaprzestaniem świadczenia Usługi na danym serwerze Discord, czyli po jej usunięciu z serwera.</li>
   <li>Usługodawca w ramach korzystania z Usługi zapisuje w pamięci tymczasowej następujące dane, niemające charakteru danych osobowych, ale konieczne dla Usługobiorcy do poprawnego wyświetlania mu poleceń informacyjnych:</li>
@@ -33,7 +41,7 @@
   </ul>
 </ul>
 
-<h2>4. Przetwarzanie danych użytkowników</h2>
+<h2>5. Przetwarzanie danych użytkowników</h2>
 <ul>
   <li>Będąc członkiem dowolnego serwera Discord, na którym świadczymy Usługę, przetwarzamy następujące dane:</li>
   <ul>
@@ -43,13 +51,13 @@
   <li>Podstawą prawną do ich przetwarzania jest art. 6 ust. 1 lit. f RODO, czyli prawnie uzasadniony interes Usługodawcy, polegający na zapewnieniu podstawowych potrzeb funkcjonowania Usługi.</li>
 </ul>
 
-<h2>5. Reszta danych osobowych</h2>
+<h2>6. Reszta danych</h2>
 <ul>
   <li>Usługodawca gromadzi i przetwarza także informacje techniczne niezbędne do świadczenia usług, np. ustawienia konfiguracyjne nadane przez Usługobiorcę lub dane serwerów Discord, na których dodano bota.</li>
   <li>Zgodnie z art. 4 ust. 1 oraz motywem 26 RODO nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym Regulaminie (wzmianka w punkcie trzecim Regulaminu), a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
 </ul>
 
-<h2>6. Żądania i prawa Usługobiorców</h2>
+<h2>7. Żądania i prawa Usługobiorców</h2>
 <ul>
   <li>Każdy członek serwera Discord, na którym świadczymy Usługę, ma prawo do:</li>
   <ul>
@@ -62,6 +70,7 @@
     <li>zażądania ograniczenia przetwarzania swoich danych osobowych (art. 18 RODO).</li>
     <li>zażądania usunięcia swoich danych osobowych (art. 17 RODO).</li>
   </ul>
+  <li>W celu realizacji większości żądań i praw wystarczy po prostu wyrzucić Usługę z serwera Discord, lecz w razie kłopotu należy skierować się na Serwer Wsparcia bezpośrednio do Usługodawcy.</li>
 </ul>
 
 <h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
