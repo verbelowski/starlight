@@ -23,7 +23,12 @@
   <li>Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności bota, co zapewnia swobodne korzystanie z wbudowanych poleceń w tym narzędziu.</li>
 </ul>
 
-<h2>3. Odpowiedzialność Usługodawcy</h2>
+<h2>3. Przetwarzanie danych osobowych</h2>
+<ul>
+  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="">polityce prywatności</a>.</li>
+</ul>
+
+<h2>4. Odpowiedzialność Usługodawcy</h2>
 <ul>
   <li>Usługodawca dokłada wszelkich starań, żeby Usługa była wolna od błędów i niedogodności (szczegóły w punkcie czwartym Regulaminu).</li>
   <li>Usługodawca nie ponosi odpowiedzialności za przerwy i zakłócenia w funkcjonowaniu Usługi spowodowane niedozwolonym działaniem osób trzecich lub awariami po stronie aplikacji oraz interfejsu API komunikatora Discord w dozwolonym prawnie zakresie.</li>
@@ -32,7 +37,7 @@
   <li>Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.</li>
 </ul>
 
-<h2>4. Zasady korzystania z Usługi</h2>
+<h2>5. Zasady korzystania z Usługi</h2>
 <ul>
   <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy:</li>
     <ul>
