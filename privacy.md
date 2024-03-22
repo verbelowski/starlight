@@ -37,4 +37,4 @@
   <li>Wkrótce...</li>
 </ul>
 
-<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms-of-service.md">warunków świadczenia usług</a>.</h5>
+<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
