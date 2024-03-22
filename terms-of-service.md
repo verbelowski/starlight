@@ -73,3 +73,12 @@
       <li>wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
     </ul>
 </ul>
+
+<h2>7. Założenia końcowe</h2>
+<ul>
+  <li>Usługodawca zastrzega sobie prawo do modyfikowania treści zawartych w Regulaminie.</li>
+  <li>Usługodawca zastrzega sobie prawo do wyłączania i zawieszania działania Usługi, a także do usuwania oraz dodawania funkcji bez wcześniejszego poinformowania o tym Usługobiorców znajdujących się na Serwerze Wsparcia.</li>
+  <li>W sprawach nieuregulowanych Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu Cywilnego, ustawy z dnia 30.05.2014r. o prawach konsumenta oraz ustawy z dnia 18.07.2002r. o świadczeniu usług drogą elektroniczną.</li>
+</ul>
+
+<h6>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/privacy-policy.md">polityki prywatności</a>.</h6>
