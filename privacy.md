@@ -34,7 +34,12 @@
 
 <h2>4. Przetwarzanie danych użytkowników</h2>
 <ul>
-  <li>Wkrótce...</li>
+  <li>Będąc członkiem dowolnego serwera Discord, na którym świadczymy Usługę, przetwarzamy następujące dane:</li>
+  <ul>
+    <li><a href="https://discord.com/developers/docs/resources/user#user-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi kont.</a></li>
+  </ul>
+  <li>Dane te umożliwiają wyszukiwanie i wyświetlanie informacji o członkach serwera Discord, a także szybkie wykonywanie poleceń. Jeżeli przebywasz na serwerze, na którym świadczymy Usługę, a chcesz usunąć swoje dane z pamięci tymczasowej, to wyjdź z tego serwera.</li>
+  <li>Podstawą prawną do ich przetwarzania jest <strong>art. 6 ust. 1 lit. f RODO</strong>, czyli prawnie uzasadniony interes Usługodawcy, polegający na zapewnieniu podstawowych potrzeb funkcjonowania Usługi.</li>
 </ul>
 
 <h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
