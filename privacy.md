@@ -10,7 +10,7 @@
   <li><strong>RODO</strong> — Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27.04.2016r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.</li>
   <li><strong>Serwer Wsparcia</strong> — oznacza miejsce związane z pomocą dotyczącą Usługi (<a href="https://discord.gg/TgKAPhyhfm">kliknij, aby dołączyć</a>).</li>
   <li><strong>Usługa</strong> — oznacza narzędzie internetowe „Starlight", działające poprzez Komunikację Drogą Elektroniczną.</li>
-  <li><strong>Usługobiorca („członek")</strong> — oznacza osobę fizyczną, korzystającą z Usługi za pośrednictwem Usługodawcy.</li>
+  <li><strong>Usługobiorca (tj. także „członek")</strong> — oznacza osobę fizyczną, korzystającą z Usługi za pośrednictwem Usługodawcy.</li>
   <li><strong>Usługodawca</strong> — oznacza właściciela Usługi, tj. zespół „Starlight™ Development".</li>
 </ul>
 
@@ -40,6 +40,12 @@
   </ul>
   <li>Dane te umożliwiają wyszukiwanie i wyświetlanie informacji o członkach serwera Discord, a także szybkie wykonywanie poleceń. Jeżeli przebywasz na serwerze, na którym świadczymy Usługę, a chcesz usunąć swoje dane z pamięci tymczasowej, to wyjdź z tego serwera.</li>
   <li>Podstawą prawną do ich przetwarzania jest <strong>art. 6 ust. 1 lit. f RODO</strong>, czyli prawnie uzasadniony interes Usługodawcy, polegający na zapewnieniu podstawowych potrzeb funkcjonowania Usługi.</li>
+</ul>
+
+<h2>5. Reszta danych osobowych</h2>
+<ul>
+  <li>Usługodawca gromadzi i przetwarza także informacje techniczne niezbędne do świadczenia usług, np. ustawienia konfiguracyjne nadane przez Usługobiorcę lub dane serwerów Discord, na których dodano bota.</li>
+  <li>Zgodnie z <strong>art. 4 ust. 1</strong> oraz motywem <strong>26 RODO</strong> nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszej polityce, a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
 </ul>
 
 <h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
