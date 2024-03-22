@@ -18,6 +18,7 @@
 <ul>
   <li>Usługodawca w ramach korzystania z Usługi zapisuje w pamięci tymczasowej następujące dane, niemające charakteru danych osobowych, ale konieczne dla Usługobiorcy do poprawnego wyświetlania mu poleceń informacyjnych:</li>
   <ul>
+    <li><a href="https://discord.com/developers/docs/resources/audit-log#audit-log-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi dziennika zdarzeń.</a></li>
     <li><a href="https://discord.com/developers/docs/resources/emoji#emoji-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi emotikon.</a></li>
     <li><a href="https://discord.com/developers/docs/resources/channel#channel-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi kanałów.</a></li>
     <li><a href="https://discord.com/developers/docs/topics/permissions#role-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi ról.</a></li>
