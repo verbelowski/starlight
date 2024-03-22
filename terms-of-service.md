@@ -39,7 +39,7 @@
   <li>Usługodawca dokłada wszelkich starań, żeby Usługa była wolna od błędów i niedogodności (szczegóły w punkcie czwartym Regulaminu).</li>
   <li>Usługodawca nie ponosi odpowiedzialności za przerwy i zakłócenia w funkcjonowaniu Usługi spowodowane niedozwolonym działaniem osób trzecich lub awariami po stronie aplikacji oraz interfejsu API komunikatora Discord w dozwolonym prawnie zakresie.</li>
   <li>Usługodawca nie ponosi odpowiedzialności za utracone dane i szkody spowodowane błędami lub niedogodnościami w Usłudze.</li>
-  <li>Usługodawca zastrzega sobie prawo zablokowania dostępu do Usługi dla Usługiobiorcy łamiącego Regulamin.</li>
+  <li>Usługodawca zastrzega sobie prawo zablokowania dostępu do Usługi dla Usługobiorcy łamiącego Regulamin.</li>
   <li>Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.</li>
 </ul>
 
