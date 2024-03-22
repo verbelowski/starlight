@@ -24,10 +24,19 @@
 
 <h2>3. Zasady korzystania z Usługi:</h2>
 <ul>
+  <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy:</li>
+    <ul>
+      <li>Usługodawca dołoży wszelkich starań, aby naprawić usterkę w jak najszybszym tempie.</li>
+      <li>Zgłoszenie błędu powinno zawierać jak najwięcej informacji, co pozwoli szybko zdiagnozować problem.</li>
+    </ul>
   <li>Usługodawca zastrzega sobie prawo zablokowania dostępu do Usługi dla Usługiobiorcy łamiącego Regulamin.</li>
+  <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
+  <li>Zabrania się prób wykrywania luk w zabezpieczeniach bez zgody Usługodawcy.</li>
   <li>Zabrania się podejmowania wobec Usługi działań:</li>
     <ul>
       <li>Łamiących polskie lub europejskie prawo.</li>
-      <li>Łamiących</li>
+      <li>Łamiących <a href="https://discord.com/terms">warunki korzystania z usługi Discord</a> oraz <a href="https://discord.com/guidelines">wytyczne dla społeczności Discord</a>.</li>
+      <li>Naruszających bezpieczeństwo i prywatność Usługobiorcy, Usługodawcy lub współpracujących z nimi podmiotów.</li>
+      <li>Wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
     </ul>
 </ul>
