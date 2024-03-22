@@ -14,11 +14,18 @@
   <li><strong>Usługodawca</strong> — oznacza właściciela Usługi, tj. zespół „Starlight™ Development".</li>
 </ul>
 
-<h2>2. Przetwarzanie danych serwerów</h2>
+<h2>2. Postanowienia ogólne</h2>
 <ul>
+  <li><ins>Usługodawca nie przechowuje permanentnie żadnych danych osobowych bez zgody Usługobiorcy, ponieważ Usługa na ten moment nie korzysta z funkcjonalności, jakie oferuje baza danych!</ins></li>
+  <li>Usługodawca zastrzega sobie prawo odpowiedzi w ciągu dwóch tygodni.</li>
+  <li>Wszelkie kwestie związane z przetwarzaniem danych osobowych przez Usługę należy kierować na Serwer Wsparcia.</li>
+</ul>
+
+<h2>3. Przetwarzanie danych serwerów</h2>
+<ul>
+  <li>Niniejsze dane zostają usuwane wraz z zaprzestaniem świadczenia Usługi na danym serwerze Discord, czyli po jej usunięciu z serwera.</li>
   <li>Usługodawca w ramach korzystania z Usługi zapisuje w pamięci tymczasowej następujące dane, niemające charakteru danych osobowych, ale konieczne dla Usługobiorcy do poprawnego wyświetlania mu poleceń informacyjnych:</li>
   <ul>
-    <li><a href="https://discord.com/developers/docs/resources/audit-log#audit-log-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi dziennika zdarzeń.</a></li>
     <li><a href="https://discord.com/developers/docs/resources/emoji#emoji-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi emotikon.</a></li>
     <li><a href="https://discord.com/developers/docs/resources/channel#channel-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi kanałów.</a></li>
     <li><a href="https://discord.com/developers/docs/topics/permissions#role-object">Kliknij, aby zapoznać się z wykorzystywanymi danymi ról.</a></li>
