@@ -32,4 +32,9 @@
   </ul>
 </ul>
 
+<h2>4. Przetwarzanie danych użytkowników</h2>
+<ul>
+  <li>Wkrótce...</li>
+</ul>
+
 <h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms-of-service.md">warunków świadczenia usług</a>.</h5>
