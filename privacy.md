@@ -1,7 +1,7 @@
 <h1>Polityka prywatności</h1>
 <ul>
   <li>Data wejścia w życie: <strong>22.03.2024r.</strong></li>
-  <li>Ostatnia aktualizacja: <strong>22.03.2024r.</strong></li>
+  <li>Ostatnia aktualizacja: <strong>23.03.2024r.</strong></li>
 </ul>
 
 <h2>1. Definicje</h2>
@@ -54,7 +54,7 @@
 <h2>6. Reszta danych</h2>
 <ul>
   <li>Usługodawca gromadzi i przetwarza także informacje techniczne niezbędne do świadczenia usług, np. ustawienia konfiguracyjne nadane przez Usługobiorcę lub dane serwerów Discord, na których dodano bota.</li>
-  <li>Zgodnie z art. 4 ust. 1 oraz motywem 26 RODO nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym Regulaminie (wzmianka w punkcie trzecim Regulaminu), a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
+  <li>Zgodnie z art. 4 ust. 1 oraz motywem 26 RODO nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym Regulaminie (wzmianka w punkcie czwartym Regulaminu), a na ich przetwarzanie nie są zbierane zgody Usługobiorców.</li>
 </ul>
 
 <h2>7. Żądania i prawa Usługobiorców</h2>
