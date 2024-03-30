@@ -1,7 +1,7 @@
 <h1>Terms of Service</h1>
 <ul>
-  <li>Effective Date: <strong>March 22, 2024</strong></li>
-  <li>Last Updated: <strong>March 30, 2024</strong></li>
+  <li>Effective Date: <strong>22.03.2024</strong></li>
+  <li>Last Updated: <strong>30.03.2024</strong></li>
 </ul>
 
 <h2>1. Definitions</h2>
