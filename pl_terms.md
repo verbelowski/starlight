@@ -1,4 +1,4 @@
-<h1>Warunki świadczenia usług</h1>
+<h1>Warunki Świadczenia Usług</h1>
 <ul>
   <li>Data wejścia w życie: <strong>22.03.2024r.</strong></li>
   <li>Ostatnia aktualizacja: <strong>30.03.2024r.</strong></li>
@@ -25,7 +25,7 @@
 
 <h2>3. Przetwarzanie danych Usługobiorcy</h2>
 <ul>
-  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">polityce prywatności</a>.</li>
+  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">Polityce Prywatności</a>.</li>
   <ul>
     <li>Dane niebędące niezbędne do zapewnienia Usługi, przetwarzamy tylko za zgodą Usługobiorcy.</li>
     <li>Usługobiorca korzysta z Usługi dzięki użyciu pseudonimu, a więc bez publikowania swoich danych osobowych.</li>
@@ -63,7 +63,7 @@
   <li>Zabrania się podejmowania wobec Usługi działań:</li>
     <ul>
       <li>łamiących polskie lub europejskie prawo.</li>
-      <li>łamiących <a href="https://discord.com/terms">warunki korzystania z usługi Discord</a> oraz <a href="https://discord.com/guidelines">wytyczne dla społeczności Discord</a>.</li>
+      <li>łamiących <a href="https://discord.com/terms">Warunki Korzystania Z Usługi Discord</a> oraz <a href="https://discord.com/guidelines">Wytyczne Dla Społeczności Discord</a>.</li>
       <li>naruszających bezpieczeństwo i prywatność Usługobiorcy, Usługodawcy lub współpracujących z nimi podmiotów.</li>
       <li>wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
     </ul>
@@ -89,4 +89,4 @@
   <li>W sprawach nieuregulowanych Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu Cywilnego, ustawy z dnia 30.05.2014r. o prawach konsumenta oraz ustawy z dnia 18.07.2002r. o świadczeniu usług drogą elektroniczną.</li>
 </ul>
 
-<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/privacy.md">polityki prywatności</a>.</h5>
+<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">Polityki Prywatności</a>.</h5>
