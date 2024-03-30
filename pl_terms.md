@@ -1,7 +1,7 @@
 <h1>Warunki Świadczenia Usług</h1>
 <ul>
-  <li>Data wejścia w życie: <strong>22.03.2024</strong></li>
-  <li>Ostatnia aktualizacja: <strong>30.03.2024</strong></li>
+  <li>Data wejścia w życie: <strong>22.03.2024</strong>.</li>
+  <li>Ostatnia aktualizacja: <strong>30.03.2024</strong>.</li>
 </ul>
 
 <h2>1. Definicje</h2>
