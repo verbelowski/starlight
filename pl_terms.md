@@ -63,7 +63,7 @@
   <li>Zabrania się podejmowania wobec Usługi działań:</li>
     <ul>
       <li>łamiących polskie lub europejskie prawo.</li>
-      <li>łamiących <a href="https://discord.com/terms">Warunki Korzystania Z Usługi Discord</a> oraz <a href="https://discord.com/guidelines">Wytyczne Dla Społeczności Discord</a>.</li>
+      <li>łamiących <a href="https://discord.com/terms">Warunki Korzystania z Usługi Discord</a> oraz <a href="https://discord.com/guidelines">Wytyczne dla Społeczności Discord</a>.</li>
       <li>naruszających bezpieczeństwo i prywatność Usługobiorcy, Usługodawcy lub współpracujących z nimi podmiotów.</li>
       <li>wpływających szkodliwie na jej działanie, a także dla współpracujących z nią podmiotów.</li>
     </ul>
