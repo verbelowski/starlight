@@ -1,17 +1,17 @@
 <h1>Terms of Service</h1>
 <ul>
-  <li>Effective Date: <strong>22.03.2024</strong></li>
-  <li>Last Updated: <strong>30.03.2024</strong></li>
+  <li>Effective Date: <strong>22.03.2024</strong>.</li>
+  <li>Last Updated: <strong>30.03.2024</strong>.</li>
 </ul>
 
 <h2>1. Definitions</h2>
 <ul>
-  <li><strong>Electronic Communication</strong> — means the internet communicator "Discord", owned by "Discord Inc.".</li>
+  <li><strong>Electronic Communication</strong> — means the internet communicator „Discord", owned by „Discord Inc.".</li>
   <li><strong>Terms</strong> — means these rules of providing electronic services.</li>
   <li><strong>Support Server</strong> — means the place associated with assistance regarding the Service (<a href="https://discord.gg/TgKAPhyhfm">click to join</a>).</li>
-  <li><strong>Service</strong> — means the web tool "Starlight", operating through Electronic Communication.</li>
+  <li><strong>Service</strong> — means the web tool „Starlight", operating through Electronic Communication.</li>
   <li><strong>Service Recipient</strong> — means a natural person using the Service through the Service Provider.</li>
-  <li><strong>Service Provider</strong> — means the owner of the Service, i.e., the "Starlight™ Development" team.</li>
+  <li><strong>Service Provider</strong> — means the owner of the Service, i.e., the „Starlight™ Development" team.</li>
 </ul>
 
 <h2>2. General Provisions</h2>
@@ -25,7 +25,7 @@
 
 <h2>3. Processing of Service Recipient's Data</h2>
 <ul>
-  <li>All personal data processing processes have been specified and described in the <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">Privacy Policy</a>.</li>
+  <li>All personal data processing processes have been specified and described in the <a href="https://github.com/verbelowski/starlight/blob/main/en_privacy.md">Privacy Policy</a>.</li>
   <ul>
     <li>Data not necessary to provide the Service is processed only with the consent of the Service Recipient.</li>
     <li>The Service Recipient uses the Service using a pseudonym, thus without publishing their personal data.</li>
@@ -89,4 +89,4 @@
   <li>In matters not regulated by the Terms, Polish law shall apply, in particular the Civil Code, the Act of May 30, 2014, on consumer rights, and the Act of July 18, 2002, on the provision of electronic services.</li>
 </ul>
 
-<h5>Go to <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">Privacy Policy</a>.</h5>
+<h5>Go to <a href="https://github.com/verbelowski/starlight/blob/main/en_privacy.md">Privacy Policy</a>.</h5>
