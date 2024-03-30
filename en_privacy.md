@@ -11,7 +11,7 @@
   <li><strong>GDPR</strong> — General Data Protection Regulation (EU) 2016/679 of April 27, 2016, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.</li>
   <li><strong>Support Server</strong> — refers to the place associated with assistance regarding the Service (<a href="https://discord.gg/TgKAPhyhfm">click to join</a>).</li>
   <li><strong>Service</strong> — refers to the web tool „Starlight", operating through Electronic Communication.</li>
-  <li><strong>Service Recipient (also "member")</strong> — refers to a natural person using the Service through the Service Provider.</li>
+  <li><strong>Service Recipient (also „member")</strong> — refers to a natural person using the Service through the Service Provider.</li>
   <li><strong>Service Provider</strong> — refers to the owner of the Service, i.e., the „Starlight™ Development" team.</li>
 </ul>
 
@@ -73,4 +73,4 @@
   <li>To fulfill most requests and rights, simply remove the Service from the Discord server, but if there are any issues, please contact the Service Provider directly on the Support Server.</li>
 </ul>
 
-<h5>Go to <a href="https://github.com/verbelowski/starlight/blob/main/pl_terms.md">Terms of Service</a>.</h5>
+<h5>Go to <a href="https://github.com/verbelowski/starlight/blob/main/en_terms.md">Terms of Service</a>.</h5>
