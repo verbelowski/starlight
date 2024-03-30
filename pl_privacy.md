@@ -73,4 +73,4 @@
   <li>W celu realizacji większości żądań i praw wystarczy po prostu wyrzucić Usługę z serwera Discord, lecz w razie kłopotu należy skierować się na Serwer Wsparcia bezpośrednio do Usługodawcy.</li>
 </ul>
 
-<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/terms.md">warunków świadczenia usług</a>.</h5>
+<h5>Przejdź do <a href="https://github.com/verbelowski/starlight/blob/main/pl_terms.md">Warunków Świadczenia Usług</a>.</h5>
