@@ -1,4 +1,4 @@
-<h1>Polityka prywatności</h1>
+<h1>Polityka Prywatności</h1>
 <ul>
   <li>Data wejścia w życie: <strong>22.03.2024r.</strong></li>
   <li>Ostatnia aktualizacja: <strong>30.03.2024r.</strong></li>
