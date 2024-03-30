@@ -25,7 +25,7 @@
 
 <h2>3. Przetwarzanie danych Usługobiorcy</h2>
 <ul>
-  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="https://github.com/verbelowski/starlight/blob/main/privacy.md">polityce prywatności</a>.</li>
+  <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">polityce prywatności</a>.</li>
   <ul>
     <li>Dane niebędące niezbędne do zapewnienia Usługi, przetwarzamy tylko za zgodą Usługobiorcy.</li>
     <li>Usługobiorca korzysta z Usługi dzięki użyciu pseudonimu, a więc bez publikowania swoich danych osobowych.</li>
