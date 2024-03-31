@@ -1,7 +1,7 @@
 <h1>Warunki Świadczenia Usług</h1>
 <ul>
   <li>Data wejścia w życie: <strong>22.03.2024</strong>.</li>
-  <li>Ostatnia aktualizacja: <strong>30.03.2024</strong>.</li>
+  <li>Ostatnia aktualizacja: <strong>31.03.2024</strong>.</li>
 </ul>
 
 <h2>1. Definicje</h2>
@@ -14,7 +14,7 @@
   <li><strong>Usługodawca</strong> — oznacza właściciela Usługi, tj. zespół „Starlight™ Development".</li>
 </ul>
 
-<h2>2. Postanowienia Ogólne</h2>
+<h2>2. Postanowienia ogólne</h2>
 <ul>
   <li>Kontakt z Usługodawcą jest możliwy tylko i wyłącznie poprzez Serwer Wsparcia.</li>
   <li>Niniejszy Regulamin określa zakres praw i obowiązków Usługobiorcy oraz Usługodawcy.</li>
@@ -23,7 +23,7 @@
   <li>Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności bota, co zapewnia swobodne korzystanie ze wbudowanych poleceń w tym narzędziu.</li>
 </ul>
 
-<h2>3. Przetwarzanie Danych Usługobiorcy</h2>
+<h2>3. Przetwarzanie danych Usługobiorcy</h2>
 <ul>
   <li>Wszystkie procesy przetwarzania danych osobowych zostały wyszczególnione i opisane w <a href="https://github.com/verbelowski/starlight/blob/main/pl_privacy.md">Polityce Prywatności</a>.</li>
   <ul>
@@ -34,7 +34,7 @@
   </ul>
 </ul>
 
-<h2>4. Odpowiedzialność Usługodawcy</h2>
+<h2>4. Odpowiedzialność usługodawcy</h2>
 <ul>
   <li>Usługodawca dokłada wszelkich starań, żeby Usługa była wolna od błędów i niedogodności (szczegóły w punkcie czwartym Regulaminu).</li>
   <li>Usługodawca nie ponosi odpowiedzialności za przerwy i zakłócenia w funkcjonowaniu Usługi spowodowane niedozwolonym działaniem osób trzecich lub awariami po stronie aplikacji oraz interfejsu API komunikatora Discord w dozwolonym prawnie zakresie.</li>
@@ -43,7 +43,7 @@
   <li>Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.</li>
 </ul>
 
-<h2>5. Rekompensaty za Błędy</h2>
+<h2>5. Rekompensaty za błędy</h2>
 <ul>
   <li>Decyzja o rekompensacie jest podejmowana przez Usługodawcę po zbadaniu zgłoszenia.</li>
   <li>Formę rekompensaty ustala Usługodawca (szczegóły w punkcie siódmym Regulaminu).</li>
@@ -51,7 +51,7 @@
   <li>Wysłanie zgłoszenia nie oznacza, że Usługodawca zrekompensuje Usługobiorcę.</li>
 </ul>
 
-<h2>6. Warunki Korzystania z Usługi</h2>
+<h2>6. Warunki korzystania z Usługi</h2>
 <ul>
   <li>Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy.</li>
     <ul>
@@ -69,7 +69,7 @@
     </ul>
 </ul>
 
-<h2>7. Wymagania Korzystania z Usługi</h2>
+<h2>7. Wymagania korzystania z Usługi</h2>
 <ul>
   <li>Do działania Usługi niezbędne jest:</li>
   <ul>
@@ -82,7 +82,7 @@
   <li>Używanie Usługi jest nieodpłatne i dobrowolne.</li>
 </ul>
 
-<h2>8. Założenia Końcowe</h2>
+<h2>8. Założenia końcowe</h2>
 <ul>
   <li>Usługodawca zastrzega sobie prawo do modyfikowania treści zawartych w Regulaminie.</li>
   <li>Usługodawca zastrzega sobie prawo do wyłączania i zawieszania działania Usługi, a także do usuwania oraz dodawania funkcji bez wcześniejszego poinformowania o tym Usługobiorców znajdujących się na Serwerze Wsparcia.</li>
