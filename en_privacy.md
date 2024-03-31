@@ -12,7 +12,7 @@
   <li><strong>Service Provider</strong> — refers to the owner of the Service, i.e., the „Starlight™ Development" team.</li>
   <li><strong>Service Recipient (also „member")</strong> — refers to a natural person using the Service through the Service Provider.</li>
 <li><strong>Support Server</strong> — refers to the place associated with assistance regarding the Service (<a href="https://discord.gg/TgKAPhyhfm">click to join</a>).</li>
-  <li><strong>Terms of Service</strong> — refers to these rules of data processing and usage by the Service electronically.</li>
+  <li><strong>Terms</strong> — refers to these rules of data processing and usage by the Service electronically.</li>
 </ul>
 
 <h2>2. General provisions</h2>
@@ -53,7 +53,7 @@
 
 <h2>6. Other data</h2>
 <ul>
-  <li>In accordance with art. 4 sec. 1 and recital 26 GDPR, they do not constitute personal data, therefore, they are not specified in this Policy (mention in point four of the Policy), and no consents of Service Recipients are collected for their processing.</li>
+  <li>In accordance with art. 4 sec. 1 and recital 26 GDPR, they do not constitute personal data, therefore, they are not specified in this Terms (mention in point four of the Terms), and no consents of Service Recipients are collected for their processing.</li>
   <li>The Service Provider also collects and processes technical information necessary for service provision, e.g., configuration settings assigned by the Service Recipient or data of Discord servers where the bot has been added.</li>
 </ul>
 
