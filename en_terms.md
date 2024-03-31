@@ -14,7 +14,7 @@
   <li><strong>Terms</strong> — means these rules of providing electronic services.</li>
 </ul>
 
-<h2>2. General Provisions</h2>
+<h2>2. General provisions</h2>
 <ul>
   <li>Contact with the Service Provider is possible only and exclusively through the Support Server.</li>
   <li>The Service Provider provides the Service to the Service Recipient, consisting of delivering and maintaining the functionality of the bot, ensuring the smooth use of built-in commands in this tool.</li>
@@ -23,7 +23,7 @@
   <li>This Terms define the scope of rights and obligations of the Service Recipient and the Service Provider.</li>
 </ul>
 
-<h2>3. Processing of Service Recipient's Data</h2>
+<h2>3. Processing of Service Recipient's data</h2>
 <ul>
   <li>All personal data processing processes have been specified and described in the <a href="https://github.com/verbelowski/starlight/blob/main/en_privacy.md">Privacy Policy</a>.</li>
   <ul>
@@ -34,7 +34,7 @@
   </ul>
 </ul>
 
-<h2>4. Service Provider's Liability</h2>
+<h2>4. Service Provider's liability</h2>
 <ul>
     <li>The Service Provider is not liable for interruptions and disruptions in the functioning of the Service caused by unauthorized actions of third parties or failures on the side of the Discord application and API interface within the legally permitted scope.</li>
   <li>The Service Provider is not liable for lost data and damages caused by errors or inconveniences in the Service.</li>
@@ -43,7 +43,7 @@
   <li>The Service Provider waives liability for content posted by the Service Recipient in the provision of the Service.</li>
 </ul>
 
-<h2>5. Compensation for Errors</h2>
+<h2>5. Compensation for errors</h2>
 <ul>
   <li>Sending a report does not mean that the Service Provider will compensate the Service Recipient.</li>
   <li>The decision on compensation is made by the Service Provider after examining the report.</li>
@@ -51,7 +51,7 @@
   <li>The Service Provider undertakes to consider compensation within two weeks from the date of the report.</li>
 </ul>
 
-<h2>6. Service Usage Conditions</h2>
+<h2>6. Service usage conditions</h2>
 <ul>
   <li>Actions against the Service are prohibited:</li>
     <ul>
@@ -69,7 +69,7 @@
     </ul>
 </ul>
 
-<h2>7. Service Requirements</h2>
+<h2>7. Service requirements</h2>
 <ul>
   <li>The following is necessary for the operation of the Service:</li>
   <ul>
@@ -82,7 +82,7 @@
   <li>Using the Service is free and voluntary.</li>
 </ul>
 
-<h2>8. Final Provisions</h2>
+<h2>8. Final provisions</h2>
 <ul>
   <li>In matters not regulated by the Terms, Polish law shall apply, in particular the Civil Code, the Act of May 30, 2014, on consumer rights, and the Act of July 18, 2002, on the provision of electronic services.</li>
   <li>The Service Provider reserves the right to disable and suspend the operation of the Service, as well as to remove and add features without prior notification of the Service Recipients located on the Support Server.</li>
