@@ -73,4 +73,4 @@
 
 **Copyright © 2023-2024 Vertennn. All rights reserved.**
 
-##### Przejdź do [Polityki Prywatności](https://github.com/verbelowski/starlight/blob/main/polish/policy.md).
+###### Przejdź do [Polityki Prywatności](https://github.com/verbelowski/starlight/blob/main/polish/policy.md).
