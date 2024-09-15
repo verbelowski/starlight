@@ -1,6 +1,6 @@
 # Terms of Use
 
-This software, encompassing all associated code, documentation, and assets (hereinafter referred to as the "Software"), is licensed under the following conditions:
+This software, including any accompanying code, documentation, and assets (collectively, the "Software"), is provided under the following terms:
 
 **License Grant:**
 
