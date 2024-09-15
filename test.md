@@ -1,6 +1,6 @@
 # Terms of Use
 
-This software, including any accompanying code, documentation, and assets (collectively, the "Software"), is provided under the following terms:
+Starlight software, including all accompanying source code, documentation, and assets, is provided under the following terms:
 
 **License Grant:**
 
