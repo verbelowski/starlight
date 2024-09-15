@@ -14,21 +14,4 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 **Disclaimer:** The program is provided "as is", without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement; the author shall not be liable for any claims, damages, or liabilities arising from or related to the product or its use.
 
-
-
-
---------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-Termination: This license will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and delete all copies from your devices.
-
-By using the Software, you agree to abide by these terms. If you do not agree, you should not use the Software.
+**Copyright © 2023-2024 Vertennn. All rights reserved.**
