@@ -10,7 +10,7 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 2. You may not distribute, sell, or otherwise make the software available to third parties.
 3. You may not use the bot for any unlawful purpose or in violation of Discord’s Terms of Service.
 
-**Ownership:** All rights, title, and interest in and to the Software, including all intellectual property rights, remain with the author. This license does not grant you any ownership rights in the Software.
+**Ownership:** All rights, title, and interest in and to the tool, including all intellectual property rights, remain with the author; this license does not grant you any ownership rights in the application.
 
 
 
