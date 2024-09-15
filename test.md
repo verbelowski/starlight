@@ -14,9 +14,9 @@
 - Kontakt z Usługodawcą jest możliwy wyłącznie poprzez dołączenie na Serwer Wsparcia.
 - Niniejszy Regulamin określa zakres praw i obowiązków Usługobiorcy oraz Usługodawcy.
 - Usługobiorca bierze na siebie pełną odpowiedzialność za sposób wykorzystywania informacji udostępnionych w ramach Usługi, a także
-ponosi całe ryzyko dotyczące jakości i/lub wydajności, które może wystąpić od czasu do czasu podczas korzystania z naszej Usługi.
+  ponosi całe ryzyko dotyczące jakości i/lub wydajności, które może wystąpić od czasu do czasu podczas korzystania z naszej Usługi.
 - Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności oprogramowania,
-co zapewnia swobodne korzystanie ze wbudowanych poleceń w tej aplikacji, a przede wszystkim bierze pod uwagę zdanie Usługobiorców.
+  co zapewnia swobodne korzystanie ze wbudowanych poleceń w tej aplikacji, a przede wszystkim bierze pod uwagę zdanie Usługobiorców.
 - Używanie Usługi jest nieodpłatne i dobrowolne.
 
 ## 3. Przetwarzanie Danych Usługobiorcy
@@ -29,8 +29,8 @@ co zapewnia swobodne korzystanie ze wbudowanych poleceń w tej aplikacji, a prze
 ## 4. Odpowiedzialność Usługodawcy
 - Usługodawca dokłada wszelkich starań, żeby Usługa była wolna od błędów i niedogodności (szczegóły w punkcie piątym Regulaminu).
 - Usługodawca nie ponosi odpowiedzialności za przerwy i zakłócenia w funkcjonowaniu Usługi, spowodowane niedozwolonym działaniem
-osób trzecich, awariami po stronie programu lub interfejsu API komunikatora Discord, w dozwolonym przez prawo zakresie, a to samo
-tyczy się również utraconych danych, szkód spowodowanych niepożądanymi błędami lub niedogodnościami napotkanymi w naszej Usłudze.
+  osób trzecich, awariami po stronie programu lub interfejsu API komunikatora Discord, w dozwolonym przez prawo zakresie, a to samo
+  tyczy się również utraconych danych, szkód spowodowanych niepożądanymi błędami lub niedogodnościami napotkanymi w Usłudze.
 - Usługodawca zastrzega sobie prawo do zablokowania dostępu do Usługi dla Usługobiorcy łamiącego Regulamin.
 - Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.
 
@@ -63,4 +63,7 @@ tyczy się również utraconych danych, szkód spowodowanych niepożądanymi bł
 ## 8. Założenia Końcowe
 - Usługodawca zastrzega sobie prawo do:
   * modyfikowania treści zawartych w Regulaminie.
-  * wyłączania i zawieszania działania Usługi, a także do usuwania oraz dodawania funkcji bez wcześniejszego poinformowania o tym Usługobiorców znajdujących się na Serwerze Wsparcia.
+  * usuwania oraz dodawania funkcjonalności.
+  * wyłączania i zawieszania działania Usługi.
+- W sprawach nieuregulowanych Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu Cywilnego, ustawy
+  z dnia 30.05.2014r. o prawach konsumenta oraz ustawy z dnia 18.07.2002r. o świadczeniu usług drogą elektroniczną.
