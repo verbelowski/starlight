@@ -6,20 +6,9 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 **Restrictions:**
 
-1. "You may not engage in reverse engineering, decompiling, disassembling, code injection, or cracking the product.
-
-
-
-
-------------------------
-
-1. You may not reproduce, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
-2. You may not distribute, sell, or otherwise make the Software available to third parties.
-3. You may not use the Software for any purpose that is unlawful or in violation of Discord’s Terms of Service.
-
-
-
-
+1. You may not engage in reverse engineering, decompiling, disassembling, code injection, or cracking the product.
+2. You may not distribute, sell, or otherwise make the software available to third parties.
+3. You may not use the bot for any unlawful purpose or in violation of Discord’s Terms of Service.
 
 
 
@@ -38,11 +27,7 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 
 
-Restrictions:
 
-You may not reproduce, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
-You may not distribute, sell, or otherwise make the Software available to third parties.
-You may not use the Software for any purpose that is unlawful or in violation of Discord’s Terms of Service.
 Ownership: All rights, title, and interest in and to the Software, including all intellectual property rights, remain with the author. This license does not grant you any ownership rights in the Software.
 
 Disclaimer: The Software is provided "as is," without warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claims, damages, or other liabilities arising from or in connection with the Software or its use.
