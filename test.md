@@ -2,8 +2,6 @@
 
 Starlight™ tool, including source code, documentation, and other assets, is protected under the following terms and conditions:
 
----------------
-
 **License Grant:** Copying, modifying, distributing, or creating derivative works based on the application is absolutely prohibited; all such rights are reserved exclusively for the author, and the use of the program for both personal and commercial purposes is not permitted.
 
 
