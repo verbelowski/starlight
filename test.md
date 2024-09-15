@@ -1,6 +1,6 @@
 # Terms of Use
 
-Starlight™ tool, including source code, documentation, and other assets, is provided under the following terms:
+Starlight™ tool, including source code, documentation, and other assets, is protected under the following terms and conditions:
 
 **License Grant:**
 
