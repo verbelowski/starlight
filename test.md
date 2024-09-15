@@ -6,6 +6,13 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 **Restrictions:**
 
+1. You may not engage in reverse engineering, decompiling, disassembling, code injection, extraction, or cracking of the product.
+
+
+
+
+------------------------
+
 1. You may not reproduce, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
 2. You may not distribute, sell, or otherwise make the Software available to third parties.
 3. You may not use the Software for any purpose that is unlawful or in violation of Discord’s Terms of Service.
