@@ -8,3 +8,7 @@
 - In the Polish version:
   * [Privacy Policy](https://github.com/verbelowski/starlight/blob/main/polish/privacy-policy.md).
   * [Terms of Service](https://github.com/verbelowski/starlight/blob/main/polish/terms-of-service.md).
+
+---
+
+**Copyright © 2023-2024 Vertennn. All rights reserved.**
