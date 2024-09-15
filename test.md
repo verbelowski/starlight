@@ -1,8 +1,9 @@
 ## License Agreement
+-# Copyright © 2023-2024 Vertennn. All rights reserved.
 
 This software, encompassing all associated code, documentation, and assets (hereinafter referred to as the "Software"), is licensed under the following conditions:
 
-
+**License Grant:**
 
 
 
