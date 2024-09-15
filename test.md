@@ -1,4 +1,4 @@
-## License Agreement
+## Starlight™ License
 
 This software, including any accompanying code, documentation, and assets (collectively, the "Software"), is provided under the following terms:
 
