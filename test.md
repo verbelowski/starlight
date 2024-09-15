@@ -19,4 +19,5 @@ związku z przetwarzaniem danych osobowych oraz w sprawie swobodnego przepływu 
 - Wszelkie kwestie związane z przetwarzaniem danych osobowych przez Usługę należy kierować na Serwer Wsparcia.
 
 ## 3. Odbiorcy Danych
-- Dane Usługobiorców (oprócz tego, że są wykorzystywane przez inne podmioty zewnętrzne) są przetwarzane przez Usługodawcę w ramach wykorzystywanej infrastruktury, a co za tym idzie, zostają one powierzone następującym odbiorcom:
+- Dane Usługobiorców (oprócz tego, że są wykorzystywane przez inne podmioty zewnętrzne) są przetwarzane przez Usługodawcę w ramach
+  wykorzystywanej infrastruktury, a co za tym idzie, zostają one powierzone następującym odbiorcom w celu lepszego świadczenia Usług:
