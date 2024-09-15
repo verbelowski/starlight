@@ -6,7 +6,7 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 **Restrictions:**
 
-1. You may not engage in reverse engineering, decompiling, disassembling, code injection, extraction, or cracking of the product.
+1. "You may not engage in reverse engineering, decompiling, disassembling, code injection, or cracking the product.
 
 
 
