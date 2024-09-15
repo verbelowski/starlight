@@ -1,5 +1,5 @@
 # Navigation
-- It is the place where you will find all documents related to our project.
+- It is the place where you will find documents related to our project.
 
 ## Legal Notices
 - In the English version:
