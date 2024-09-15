@@ -12,7 +12,7 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 **Ownership:** All rights, title, and interest in and to the tool, including all intellectual property rights, remain with the author; this license does not grant you any ownership rights in the application.
 
-
+**Disclaimer:** The program is provided "as is", without warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement; in no event shall the author be liable for any claims, damages, or other liabilities arising from or in connection with the product or its use.
 
 
 
@@ -28,9 +28,6 @@ Starlight™ tool, including source code, documentation, and other assets, is pr
 
 
 
-Ownership: All rights, title, and interest in and to the Software, including all intellectual property rights, remain with the author. This license does not grant you any ownership rights in the Software.
-
-Disclaimer: The Software is provided "as is," without warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claims, damages, or other liabilities arising from or in connection with the Software or its use.
 
 Termination: This license will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and delete all copies from your devices.
 
