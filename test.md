@@ -1,5 +1,4 @@
-# License Terms
--# Copyright © 2023-2024 Vertennn. All rights reserved.
+# Terms of Use
 
 This software, encompassing all associated code, documentation, and assets (hereinafter referred to as the "Software"), is licensed under the following conditions:
 
@@ -9,6 +8,15 @@ This software, encompassing all associated code, documentation, and assets (here
 
 
 
+
+
+
+
+
+
+
+
+--------------------------------------------------
 This software, including any accompanying code, documentation, and assets (collectively, the "Software"), is provided under the following terms:
 
 License Grant: The author grants you a non-exclusive, non-transferable license to use the Software for personal, non-commercial purposes on Discord. You may interact with the Software as intended but are prohibited from copying, modifying, distributing, or creating derivative works based on the Software without explicit permission.
