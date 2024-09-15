@@ -1,5 +1,5 @@
 # Navigation
-- It is the place where you will find documents related to our project.
+- It is the place where you will find all informational documents related to our project on the Discord platform.
 
 ## Legal Notices
 - In the English version:
