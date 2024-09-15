@@ -13,4 +13,4 @@ związku z przetwarzaniem danych osobowych oraz w sprawie swobodnego przepływu 
 - **Usługodawca** — oznacza właściciela Usługi, którym jest Vertennn ([kliknij, aby sprawdzić](https://discord.com/users/1118126429356445738)).
 
 ## 2. Postanowienia Ogólne
-- Usługodawca na moment obecny nie przechowuje permanentnie żadnych danych osobowych bez zgody Usługobiorcy, ponieważ nasza Usługa aktualnie nie ma zaimplementowanej bazy danych, w której byłyby przechowywany dane niezbędne do dalszego świadczenia Usługi.
+- Usługodawca na moment obecny nie przechowuje permanentnie żadnych danych osobowych bez zgody Usługobiorcy, ponieważ Usługa aktualnie nie ma zaimplementowanej bazy danych, w której byłyby przechowywany dane niezbędne do dalszego świadczenia Usługi.
