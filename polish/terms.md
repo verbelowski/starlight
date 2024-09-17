@@ -14,7 +14,7 @@
 - Kontakt z Usługodawcą jest możliwy wyłącznie poprzez dołączenie na Serwer Wsparcia.
 - Niniejszy Regulamin określa zakres praw i obowiązków Usługobiorcy oraz Usługodawcy.
 - Usługobiorca bierze na siebie pełną odpowiedzialność za sposób wykorzystywania informacji udostępnionych w ramach Usługi, co oznacza,
-  że ponosi także całe ryzyko dotyczące spadku jakości i/lub wydajności, które może wystąpić od czasu do czasu podczas korzystania z Usługi.
+  że ponosi całe ryzyko dotyczące spadku jakości i/lub wydajności, które może wystąpić od czasu do czasu podczas korzystania z Usługi.
 - Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności oprogramowania,
   co zapewnia swobodne korzystanie ze wbudowanych poleceń w tej aplikacji, a przede wszystkim bierze on pod uwagę zdanie Usługobiorców.
 - Używanie Usługi jest nieodpłatne i dobrowolne.
