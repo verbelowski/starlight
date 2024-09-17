@@ -62,7 +62,7 @@
   * usuwania oraz dodawania funkcjonalności.
   * wyłączania i zawieszania działania Usługi.
 - W sprawach nieuregulowanych Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu Cywilnego, ustawy z
-  dnia 30.05.2014 o prawach konsumenta, ustawy z dnia 18.07.2002 o świadczeniu usług drogą elektroniczną, a także innych ustaw.
+  dnia 30.05.2014 o prawach konsumenta, ustawy z dnia 18.07.2002 o świadczeniu usług drogą elektroniczną oraz innych stosownych ustaw.
 
 ---
 
