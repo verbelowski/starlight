@@ -3,9 +3,7 @@
   related resources, is protected under the following terms and conditions:
 
 ## 1. Grant of Rights
-- Copying, modifying, distributing, or creating derivative works based on the application is absolutely
-  prohibited; all such rights are reserved exclusively for the author, and the use of the program for both
-  personal and commercial purposes, without explicit permission from the author, is strictly not permitted.
+- Copying, modifying, distributing, or creating derivative works based on the application is absolutely prohibited; all such rights are reserved exclusively for the author. The use of the program for both personal and commercial purposes, including any form of redistribution or adaptation, without explicit permission from the author, is strictly not permitted and may result in legal action.
 
 ## 2. Restrictions
 - We strictly prohibit you from:
