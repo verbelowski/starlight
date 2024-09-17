@@ -12,7 +12,7 @@
 
 ## 2. General Provisions
 - Contact with the Service Provider is only possible by joining the Support Server.
-- The Service Provider provides the Service to the Service Recipient by delivering and maintaining the functionality of the application, thus enabling the Service Recipient to freely and uninterruptedly use all available commands and functions of the program.
+- The Service Provider provides the Service to the Service Recipient by delivering and maintaining the functionality of the application, thus enabling the Service Recipient to freely and uninterruptedly use all available commands, features, and functions of the program.
 - The Service Recipient assumes full responsibility for how the information provided through the Service is used, meaning that they bear all risks related to any decline in quality and/or performance that may occasionally occur while using the Service.
 - The use of the Service is free of charge and voluntary.
 - These Regulations define the scope of rights and obligations of the Service Recipient and the Service Provider.
