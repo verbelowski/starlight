@@ -3,7 +3,7 @@
 - Ostatnia aktualizacja: **17.09.2024**.
 
 ## 1. Definicje
-- **Komunikacja Drogą Elektroniczną** — oznacza komunikator Discord, który należy do firmy Discord Inc.
+- **Komunikacja Drogą Elektroniczną** — oznacza komunikator Discord, należący do firmy Discord Inc.
 - **Regulamin** — oznacza ten dokument z warunkami świadczenia usług drogą elektroniczną.
 - **Serwer Wsparcia** — oznacza miejsce związane z pomocą dotyczącą Usługi ([kliknij, aby dołączyć](https://discord.gg/TgKAPhyhfm)).
 - **Usługa** — oznacza narzędzie Starlight™, działające poprzez Komunikację Drogą Elektroniczną.
