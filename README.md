@@ -1,6 +1,6 @@
 # Navigation
-- It is the place where you will find informational
-  files related to our project on the Discord platform.
+- It is the place where you will find informational files related to our project on the Discord platform.
+- Please also read the [license](https://github.com/verbelowski/starlight/blob/main/LICENSE.md) related to our tool.
 
 ## Legal Notices
 - In the English version:
