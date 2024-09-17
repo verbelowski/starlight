@@ -4,7 +4,7 @@
 
 ## 1. Grant of Rights
 - Copying, modifying, distributing, or creating derivative works based on the application is absolutely prohibited; all such rights are reserved
-  exclusively for the author. The use of the program for personal and commercial purposes, including any form of redistribution, adaptation,
+  exclusively for the author, and the use of the program for personal and commercial purposes, including any form of redistribution, adaptation,
   or incorporation into other software, without explicit permission from the author, is strictly prohibited and may result in legal action.
 
 ## 2. Restrictions
