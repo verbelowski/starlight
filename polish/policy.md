@@ -41,7 +41,7 @@ z przetwarzaniem danych osobowych oraz w sprawie swobodnego przepływu takich da
 
 ## 6. Reszta Danych
 - Usługodawca gromadzi i przetwarza także informacje techniczne, niezbędne do świadczenia Usług, np. ustawienia konfiguracyjne nadane
-  przez Usługobiorcę oraz dane serwerów Discord, na których dodano oprogramowanie, aby przykładowo, móc liczyć statystyki w komendzie /bot.
+  przez Usługobiorcę oraz dane serwerów Discord, na których dodano oprogramowanie, aby móc liczyć statystyki w komendzie /bot.
 - Zgodnie z art. 4 ust. 1 oraz motywem 26 RODO nie mają one charakteru danych osobowych, dlatego nie są wyszczególnione w niniejszym
   Regulaminie (wzmianka w punkcie czwartym Regulaminu), a na ich przetwarzanie nie są przez nas zbierane zgody Usługobiorców.
 
