@@ -14,7 +14,7 @@
   * Use the bot for any unlawful purpose or in violation of Discord’s Terms of Service.
 
 ## 3. Ownership
-- All rights, title, and interest in and to the tool, including intellectual property rights, remain with the author; this license does not grant you ownership rights in the application or any associated intellectual property, nor does it imply any transfer of rights beyond those explicitly stated.
+- All rights, title, and interest in and to the tool, including intellectual property rights, remain with the author; this license does not grant you ownership rights in the application or any related intellectual property, nor does it imply any transfer of rights beyond those explicitly stated.
 
 ## 4. Disclaimer
 - The program is provided "as is", without any warranties, express or implied, including but not limited to warranties of merchantability,
