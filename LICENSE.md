@@ -18,9 +18,7 @@
   remain with the author; this license does not grant you any ownership rights in the application.
 
 ## 4. Disclaimer
-- The program is provided "as is", without any warranties, express or implied, including but not limited
-  to warranties of merchantability, fitness for a particular purpose, and noninfringement; the author shall
-  not be liable for any claims, damages, or liabilities arising from or related to the product or its use.
+- The program is provided "as is," without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement; the author shall not be liable for any claims, damages, or liabilities arising from or related to the product or its use, whether such claims arise from a direct or indirect consequence, and regardless of any possible failure to meet specific expectations or requirements.
 
 ---
 
