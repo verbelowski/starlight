@@ -1,9 +1,9 @@
 # Warunki Świadczenia Usług
-- Data wejścia w życie: **17.09.2024**.
+- Data wejścia w życie: **16.09.2024**.
 - Ostatnia aktualizacja: **17.09.2024**.
 
 ## 1. Definicje
-- **Komunikacja Drogą Elektroniczną** — oznacza firmę Discord Incorporated, do której należy komunikator Discord.
+- **Komunikacja Drogą Elektroniczną** — oznacza komunikator Discord, który należy do firmy Discord Inc.
 - **Regulamin** — oznacza ten dokument z warunkami świadczenia usług drogą elektroniczną.
 - **Serwer Wsparcia** — oznacza miejsce związane z pomocą dotyczącą Usługi ([kliknij, aby dołączyć](https://discord.gg/TgKAPhyhfm)).
 - **Usługa** — oznacza narzędzie Starlight™, działające poprzez Komunikację Drogą Elektroniczną.
