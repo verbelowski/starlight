@@ -1,5 +1,6 @@
 # License Agreement
-- The Starlight™ tool, including its source code, documentation, and other related resources, is protected under the following terms and conditions, which outline the rights, restrictions, and obligations associated with its use and distribution:
+
+The Starlight™ tool, including its source code, documentation, and other related resources, is protected under the following terms and conditions, which govern its use, distribution, and any modifications or adaptations, as well as the rights and responsibilities of all parties involved in its handling and deployment.
 
 ## 1. Grant of Rights
 - Copying, modifying, distributing, or creating derivative works based on the application is absolutely prohibited; all such rights are reserved
