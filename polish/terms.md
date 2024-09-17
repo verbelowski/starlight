@@ -15,7 +15,7 @@
 - Niniejszy Regulamin określa zakres praw i obowiązków Usługobiorcy oraz Usługodawcy.
 - Usługobiorca bierze na siebie pełną odpowiedzialność za sposób wykorzystywania informacji udostępnionych w ramach Usługi, co znaczy,
   że ponosi on całe ryzyko dotyczące spadku jakości i/lub wydajności, które może wystąpić od czasu do czasu podczas korzystania z Usługi.
-- Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności oprogramowania, więc dzięki temu Usługobiorca ma możliwość swobodnego i nieprzerwanego korzystania ze wszystkich wbudowanych poleceń aplikacji.
+- Usługodawca świadczy na rzecz Usługobiorcy Usługę, polegającą na dostarczaniu oraz utrzymywaniu funkcjonalności aplikacji, więc dzięki temu Usługobiorca ma możliwość swobodnego i nieprzerwanego korzystania ze wszystkich wbudowanych poleceń tego programu.
 - Używanie Usługi jest nieodpłatne i dobrowolne.
 
 ## 3. Przetwarzanie Danych Usługobiorcy
