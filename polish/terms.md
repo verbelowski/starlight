@@ -29,8 +29,8 @@
 ## 4. Odpowiedzialność Usługodawcy
 - Usługodawca dokłada wszelkich starań, żeby Usługa była wolna od błędów i niedogodności (szczegóły w punkcie piątym Regulaminu).
 - Usługodawca nie ponosi odpowiedzialności za przerwy i zakłócenia w funkcjonowaniu Usługi, spowodowane niedozwolonym działaniem
-  osób trzecich, awariami po stronie programu lub interfejsu API komunikatora Discord, w dozwolonym przez prawo zakresie, a to
-  samo tyczy się również utraconych danych, szkód spowodowanych niepożądanymi błędami lub niedogodnościami napotkanymi w Usłudze.
+  osób trzecich, awariami po stronie programu lub interfejsu API komunikatora Discord, w dozwolonym przez prawo zakresie, a to samo
+  tyczy się również utraconych danych, szkód spowodowanych niepożądanymi błędami lub niedogodnościami napotkanymi w Usłudze.
 - Usługodawca zastrzega sobie prawo do zablokowania dostępu do Usługi dla Usługobiorcy łamiącego Regulamin.
 - Usługodawca zrzeka się odpowiedzialności za treści umieszczane przez Usługobiorcę w ramach świadczenia Usługi.
 
@@ -41,7 +41,7 @@
 - Wysłanie zgłoszenia nie oznacza, że Usługodawca zrekompensuje Usługobiorcę.
 
 ## 6. Warunki Korzystania z Usługi
-- Usługobiorca napotykający błąd w działaniu Usługi ma obowiązek zgłosić go do Usługodawcy.
+- Usługobiorca, napotykający błąd w działaniu Usługi, ma obowiązek zgłosić go do Usługodawcy.
   * Usługodawca dołoży wszelkich starań, aby naprawić usterkę w jak najszybszym tempie.
   * Usługobiorca może ubiegać się o rekompensatę w postaci roli na Serwerze Wsparcia.
   * Zgłoszenie błędu powinno zawierać jak najwięcej informacji, co pozwoli szybko zdiagnozować problem.
@@ -62,7 +62,7 @@
   * usuwania oraz dodawania funkcjonalności.
   * wyłączania i zawieszania działania Usługi.
 - W sprawach nieuregulowanych Regulaminem zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu Cywilnego, ustawy z
-  dnia 30.05.2014 o prawach konsumenta, ustawy z dnia 18.07.2002 o świadczeniu usług drogą elektroniczną oraz innych obowiązujących ustaw.
+  dnia 30.05.2014 o prawach konsumenta, ustawy z dnia 18.07.2002 o świadczeniu usług drogą elektroniczną, a także innych ustaw.
 
 ---
 
