@@ -24,9 +24,9 @@ z przetwarzaniem danych osobowych oraz w sprawie swobodnego przepływu takich da
   * Oracle Cloud — dostawca usług hostingowych ([kliknij, aby przenieść się na stronę](https://www.oracle.com/cloud)).
 
 ## 4. Przetwarzanie Danych Serwerów
-- Niniejsze dane zostają usuwane wraz z zaprzestaniem świadczenia Usługi na danym serwerze Discord, czyli po wyrzuceniu narzędzia.
+- Niniejsze dane zostają usuwane wraz z zaprzestaniem świadczenia Usługi na danym serwerze Discord, czyli po wyrzuceniu aplikacji.
 - Usługodawca, w ramach korzystania z Usługi, zapisuje w pamięci tymczasowej następujące dane, niemające charakteru danych osobowych,
-  ale konieczne dla Usługobiorcy do poprawnego wyświetlania mu poleceń informacyjnych przez nasze oprogramowanie:
+  ale konieczne dla Usługobiorcy do poprawnego wyświetlania mu poleceń informacyjnych przez program, w celu optymalnego działania:
   * [Kliknij, aby zapoznać się z wykorzystywanymi danymi emotikon](https://discord.com/developers/docs/resources/emoji#emoji-object).
   * [Kliknij, aby zapoznać się z wykorzystywanymi danymi kanałów](https://discord.com/developers/docs/resources/channel#channel-object).
   * [Kliknij, aby zapoznać się z wykorzystywanymi danymi ról](https://discord.com/developers/docs/topics/permissions#role-object).
