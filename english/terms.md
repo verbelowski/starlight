@@ -1,11 +1,5 @@
-# Terms of Service
-- Effective Date: **09/16/2024**.
-- Last Updated: **09/17/2024**.
-
-## 4. Service Provider's Liability
-- The Service Provider disclaims liability for content posted by the Service Recipient within the Service.
-- The Service Provider is not liable for any interruptions or disruptions in the functioning of the Service caused by unauthorized actions of
-  third parties, failures on the part of the program, technical issues, or the Discord API interface, to the fullest extent permitted by law; this
-  also applies to lost data and any damages caused by unexpected errors or unforeseen complications encountered while using the Service.
-- The Service Provider reserves the right to block access to the Service for any Service Recipient who violates the Regulations.
-- The Service Provider strives to keep the Service free of errors and inconveniences (details in section five of the Regulations).
+## 5. Error Compensation
+- Submitting a report does not guarantee that the Service Provider will grant compensation to the Service Recipient.
+- The decision regarding compensation is made by the Service Provider after reviewing the submitted report.
+- The form of compensation is determined by the Service Provider (details in section six of the Regulations).
+- The Service Provider commits to considering the compensation request within one week of receiving the message.
