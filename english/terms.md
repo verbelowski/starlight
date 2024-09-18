@@ -2,9 +2,8 @@
 - Effective Date: **09/16/2024**.
 - Last Updated: **09/17/2024**.
 
-## 3. Processing of Service Recipient’s Data
-- All personal data processing procedures are detailed and described in the [Privacy Policy](https://github.com/verbelowski/starlight/blob/main/polish/policy.md).
-  * Data that is not necessary for providing the Service is processed only with the Service Recipient’s consent.
-  * The Service Recipient uses the Service with a pseudonym, meaning they do not disclose their personal data.
-  * The Service Provider implements technical and organizational measures to ensure the security of the processed data.
-  * All entities processing the Service Recipient’s personal data have been consciously selected by the Service Provider.
+## 4. Service Provider's Liability
+- The Service Provider makes every effort to ensure that the Service is free from errors and inconveniences (details in Section Five of the Terms).
+- The Service Provider is not liable for any interruptions or disruptions in the functioning of the Service caused by unauthorized actions of third parties, failures on the part of the program or Discord API interface, to the extent permitted by law. This also applies to lost data and damages caused by unwanted errors or inconveniences encountered in the Service.
+- The Service Provider reserves the right to block access to the Service for any Service Recipient who violates the Terms.
+- The Service Provider disclaims liability for content posted by the Service Recipient within the Service.
