@@ -1,4 +1,11 @@
-## 6. Other Data
-
-- The Service Provider also collects and processes technical information necessary for providing the Services, such as configuration settings set by the Service Recipient and data from Discord servers where the software has been added to count statistics with the /bot command.
-- According to Article 4(1) and Recital 26 of the GDPR, this data is not considered personal data and is therefore not detailed in this Regulations (details in section four of the Regulations); additionally, no consent from Service Recipients is required for processing this data.
+## 7. Requests and Rights of Service Recipients
+- Each user on a Discord server where we provide the Service has the right to:
+  * withdraw consent for the processing of their personal data if it is being processed on that basis (article 7 GDPR).
+  * transfer their personal data (article 20 GDPR).
+  * rectify their personal data (article 16 GDPR).
+  * access their personal data (article 15 GDPR).
+  * file a complaint with the supervisory authority (UODO) ([click to learn more](https://uodo.gov.pl/pl/83/155)).
+  * object to the processing of their personal data when it is processed based on the legitimate interests of the Service Provider, particularly if the data is used for statistical analysis or marketing (article 21 GDPR).
+  * request the restriction of processing their personal data (article 18 GDPR).
+  * request the deletion of their personal data (article 17 GDPR).
+- To fulfill most of the above requests, simply removing the Service from the Discord server will suffice.
