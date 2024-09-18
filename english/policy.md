@@ -1,1 +1,1 @@
-- The legal basis for processing this data is Art. 6(1)(f) GDPR, which is the legitimate interest of the Service Provider in ensuring the basic functionality and operation of the Service. Without this, the Service would not function properly, and its features would be limited.
+- The legal basis for processing this data is Article 6(1)(f) GDPR, which is the legitimate interest of the Service Provider in ensuring the basic functionality and operation of the Service. Without this, the Service would not function properly, and its features would be limited.
