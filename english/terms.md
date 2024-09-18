@@ -1,6 +1,1 @@
-## 8. Final Provisions
-- The Service Provider reserves the right to:
-  * Modify the content of these Terms.
-  * Remove or add functionalities.
-  * Disable and suspend the Service.
-- In matters not regulated by these Terms, Polish law applies, particularly the Civil Code, the Consumer Rights Act of May 30, 2014, the Electronic Services Act of July 18, 2002, and other relevant statutes.
+- W sprawach nieuregulowanych niniejszymi Warunkami, zastosowanie ma prawo polskie, w szczególności Kodeks Cywilny, ustawa o prawach konsumenta z dnia 30 maja 2014 r., ustawa o świadczeniu usług drogą elektroniczną z dnia 18 lipca 2002 r. oraz inne odpowiednie przepisy i regulacje. Dla użytkowników spoza Polski mogą również obowiązywać lokalne przepisy prawne i regulacje. Wszelkie spory wynikające z lub związane z niniejszymi Warunkami będą rozstrzygane przez wyłączne jurysdykcję sądów znajdujących się w Polsce, chyba że lokalne przepisy prawne wymagają czegoś innego.
