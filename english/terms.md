@@ -1,4 +1,6 @@
-## 7. Service Usage Requirements
-- To use the Service, a Discord account and a stable Internet connection are necessary, though there are exceptions.
-  * The application version requires only the downloaded Discord client from their official website.
-  * The browser version additionally requires enabled support for cookies and JavaScript.
+## 8. Final Provisions
+- The Service Provider reserves the right to:
+  * Modify the content of these Terms.
+  * Remove or add functionalities.
+  * Disable and suspend the Service.
+- In matters not regulated by these Terms, Polish law applies, particularly the Civil Code, the Consumer Rights Act of May 30, 2014, the Electronic Services Act of July 18, 2002, and other relevant statutes.
