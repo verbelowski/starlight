@@ -3,7 +3,7 @@
 - Last Updated: **09/17/2024**.
 
 ## 4. Service Provider's Liability
-The Service Provider makes every effort to ensure the Service is free from errors and inconveniences (details in Section Five of the Terms).
+- The Service Provider makes every effort to ensure the Service is free from errors and inconveniences (details in section five of the Regulations).
 - The Service Provider is not liable for any interruptions or disruptions in the functioning of the Service caused by unauthorized actions of third parties, failures on the part of the program or Discord API interface, to the extent permitted by law. This also applies to lost data and damages caused by unwanted errors or inconveniences encountered in the Service.
 - The Service Provider reserves the right to block access to the Service for any Service Recipient who violates the Terms.
 - The Service Provider disclaims liability for content posted by the Service Recipient within the Service.
